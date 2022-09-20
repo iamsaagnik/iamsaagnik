@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Saagnik Karmakar</h1>
 <h3 align="center">stuck at error 404. Also a computer science engineer</h3>
+![Saagnik](https://user-images.githubusercontent.com/71928668/191295204-ba8c9da0-919c-46b0-bdee-44b9e8c6cfc4.gif)
 
 - 🌱 I’m currently learning **Web Dev , IOT , IOS Dev**
 
