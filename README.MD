@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Saagnik Karmakar</h1>
 <h3 align="center">stuck at error 404. Also a computer science engineer</h3>
-![Saagnik](https://user-images.githubusercontent.com/71928668/191295204-ba8c9da0-919c-46b0-bdee-44b9e8c6cfc4.gif)
+
+
 
 - 🌱 I’m currently learning **Web Dev , IOT , IOS Dev**
 
@@ -11,6 +12,8 @@
 - 📫 How to reach me **saagnik007@gmail.com**
 
 - ⚡ Fun fact **I am a good at logics but lazy at coding :)**
+
+<p><img src="<img src="img_girl.jpg" alt="Girl in a jacket" width="500" height="600">" alt="Girl in a jacket" width="500" height="600">/p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
